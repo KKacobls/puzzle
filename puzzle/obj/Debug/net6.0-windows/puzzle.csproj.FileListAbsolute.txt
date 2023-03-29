@@ -1,0 +1,17 @@
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\bin\Debug\net6.0-windows\puzzle.exe
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\bin\Debug\net6.0-windows\puzzle.deps.json
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\bin\Debug\net6.0-windows\puzzle.runtimeconfig.json
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\bin\Debug\net6.0-windows\puzzle.dll
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\bin\Debug\net6.0-windows\puzzle.pdb
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.csproj.AssemblyReference.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.Form1.resources
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.csproj.GenerateResource.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.AssemblyInfoInputs.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.AssemblyInfo.cs
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.dll
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\refint\puzzle.dll
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.pdb
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\puzzle.genruntimeconfig.cache
+C:\Users\kk\Desktop\homework\program\c#\test\t03212\puzzle\puzzle\obj\Debug\net6.0-windows\ref\puzzle.dll
